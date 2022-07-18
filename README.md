@@ -1,10 +1,10 @@
-### Olá! 👩‍💻
+### Olá! ✨
 
-- 😄 Meus pronomes: ela/dela
-- 🤿 Atualmente trabalho na Alura, como estagirária Scuba Team na escola Semente 
-- 🌱 Estudo Ciência da Computação na Universidade Federal do Piauí
+- 🤿 Atualmente trabalho na Alura, como estagiária Scuba Team na escola Semente 
+- 💻 Estudo Ciência da Computação na Universidade Federal do Piauí
 - 🔭 Faço Iniciação Científica na área de Redes de Computadores
 - 🔌 Sou formada como técnica em Eletrônica pelo Instituto Federal do Piauí
+- 😄 Meus pronomes: ela/dela
 
 <div align="center">
   <a href="https://github.com/jhoisz">
@@ -19,7 +19,14 @@
   <img align="center" alt="Jhoisz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jhoisz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jhoisz-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  
+ <img align="right" alt="Jhoisz-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/962040838123319319/998605662282068008/meugif.gif">
+  
 </div> 
   
-  
-  
+  ##
+    
+ <div> 
+  <a href = "jhois.alu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jhoisnayra-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
