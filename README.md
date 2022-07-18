@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/jhoisz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhoisz&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoisz&layout=compact&langs_count=7&theme=panda"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhoisz&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoisz&layout=compact&langs_count=7&theme=blueberry "/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -20,7 +20,7 @@
   <img align="center" alt="Jhoisz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jhoisz-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
 
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/962040838123319319/998619947385245776/download20220701125845.png">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/962040838123319319/998623295354183760/download20220701131217.png?width=468&height=468">
 </div>
   
   </div> 
