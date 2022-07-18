@@ -1,15 +1,15 @@
-### Olá! ✨
+### Olá! Me chamo Jhoisnáyra Vitória ✨👩🏻‍💻
 
-- 🤿 Atualmente trabalho na Alura, como estagiária Scuba Team na escola Semente 
-- 💻 Estudo Ciência da Computação na Universidade Federal do Piauí
+- 🤿 Atualmente trabalho na **Alura**, como estagiária **Scuba Team** na Escola Semente 
+- 💻 Estudo **Ciência da Computação** na Universidade Federal do Piauí
 - 🔭 Faço Iniciação Científica na área de Redes de Computadores
 - 🔌 Sou formada como técnica em Eletrônica pelo Instituto Federal do Piauí
 - 😄 Meus pronomes: ela/dela
 
 <div align="center">
   <a href="https://github.com/jhoisz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhoisz&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoisz&layout=compact&langs_count=7&theme=buefy"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhoisz&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoisz&layout=compact&langs_count=7&theme=panda"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -20,7 +20,7 @@
   <img align="center" alt="Jhoisz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jhoisz-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
 
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/962040838123319319/998616717565644870/download20220701115507.png?width=468&height=468">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/962040838123319319/998619947385245776/download20220701125845.png">
 </div>
   
   </div> 
