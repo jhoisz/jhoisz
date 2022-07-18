@@ -1,6 +1,6 @@
 ### Olá! Me chamo Jhoisnáyra Vitória ✨👩🏻‍💻
 
-- 🤿 Atualmente trabalho na **Alura**, como estagiária **Scuba Team** na Escola Semente 
+- 🤿 Atualmente trabalho na **Alura**, sou estagiária **Scuba Team** na Escola Semente 
 - 💻 Estudo **Ciência da Computação** na Universidade Federal do Piauí
 - 🔭 Faço Iniciação Científica na área de Redes de Computadores
 - 🔌 Sou formada como técnica em Eletrônica pelo Instituto Federal do Piauí
