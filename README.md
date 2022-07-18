@@ -19,10 +19,11 @@
   <img align="center" alt="Jhoisz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jhoisz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jhoisz-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/962040838123319319/998616717565644870/download20220701115507.png?width=468&height=468">
+</div>
   
- <img align="right" alt="Jhoisz-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/962040838123319319/998605662282068008/meugif.gif">
-  
-</div> 
+  </div> 
   
   ##
     
