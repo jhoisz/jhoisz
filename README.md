@@ -6,12 +6,12 @@
 - 🔌 Sou formada como técnica em Eletrônica pelo Instituto Federal do Piauí
 - 😄 Meus pronomes: ela/dela
 
-<div>
-<a href="https://github.com/jhoisz">
+<!-- <div>
+ <a href="https://github.com/jhoisz">
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoisz&layout=compact&langs_count=7&theme=dracula"/>
 <img height="120em" src="https://github-readme-stats.vercel.app/api?username=jhoisz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
+-->
 <div style="display: inline_block"><br>
   <img align="center" alt="Jhoisz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jhoisz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
