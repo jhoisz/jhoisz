@@ -1,4 +1,4 @@
-### Olá! Eu sou a Jhois 👋🏼👩🏻‍💻 (ela/dela)
+### Oi, meu nome é Jhoisnáyra! 👋🏼👩🏻‍💻 (ela/dela)
 
 Sou estudante de **Ciência da Computação** na Universidade Federal do Piauí (UFPI), pesquisadora na área de Redes de Computadores, com foco em IoT. Atualmente trabalho na **Alura**, como **Scuba do time de Mobile** e estou me especializando no framework **Flutter**. 
 
