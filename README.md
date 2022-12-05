@@ -1,6 +1,9 @@
-### Oi, meu nome é Jhoisnáyra! 👋🏼👩🏻‍💻 (ela/dela)
+### Oi, meu nome é Jhoisnáyra! 👋🏼👩🏻‍💻 
 
 Sou estudante de **Ciência da Computação** na Universidade Federal do Piauí (UFPI), pesquisadora na área de Redes de Computadores, com foco em IoT. Atualmente trabalho na **Alura**, como **Scuba do time de Mobile** e estou me especializando no framework **Flutter**. 
+
+- 😄 Meus pronomes: ela/dela.
+
 
 <!-- 
 - 🤿 Atualmente trabalho na **Alura**, sou estagiária **Scuba Team** na Escola Semente 
