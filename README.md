@@ -26,7 +26,7 @@ Sou estudante de **Ciência da Computação** na Universidade Federal do Piauí 
   <img align="center" alt="Jhoisz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jhoisz-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
 
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/jhoisz/jhoisz/blob/main/meugif.gif">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/962040838123319319/1050874733861810296/ezgif.com-gif-maker.gif">
 </div>
   
   </div> 
