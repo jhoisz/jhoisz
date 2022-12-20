@@ -1,9 +1,6 @@
 ### Olá, me chamo Jhoisnáyra Vitória!
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhoisnayra-rodrigues/)](https://www.linkedin.com/in/suyash-srivastava-458b01173) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhois.alu@gmail.com)](mailto:jhois.alu@gmail.com)
-
 Sou estudante de **Ciência da Computação** na Universidade Federal do Piauí (UFPI), pesquisadora na área de Redes de Computadores, com foco em IoT. Atualmente trabalho na **Alura**, como **Scuba do time de Mobile** e estou me especializando no framework **Flutter**.
 
 
