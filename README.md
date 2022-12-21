@@ -19,8 +19,22 @@ Sou estudante de **Ciência da Computação** na Universidade Federal do Piauí 
  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></img>
 </div>
 
+<div>
 
-<img align="right" alt="" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/962040838123319319/1050874733861810296/ezgif.com-gif-maker.gif">
+ 
+ <img align="right" alt="" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/962040838123319319/1050874733861810296/ezgif.com-gif-maker.gif">
+ 
+ <p><strong>Entre em contato comigo:</strong></p>
+  <a href= "https://www.linkedin.com/in/jhoisnayra-rodrigues/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ </a> 
+ <a href= "mailto:jhois.alu@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+ </a> 
+</div>
+
+
+
   
   ##
     
