@@ -31,7 +31,21 @@ Sou estudante de <strong>Ciência da Computação</strong> na Universidade Feder
 
 <div>
 
- 
+
+### 📌 Veja alguns dos meus repositórios de estudos:
+
+<div>
+  <p>
+    <a href="https://github.com/jhoisz/Bytebank_Provider">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhoisz&repo=Bytebank_Provider" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/jhoisz/dart_sintaxe_colecoes_e_dinamismo">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhoisz&repo=dart_sintaxe_colecoes_e_dinamismo" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
+  
+  
 <!--  <img align="right" alt="" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/962040838123319319/1050874733861810296/ezgif.com-gif-maker.gif"> -->
  
  <h3><strong> 🔗 Entre em contato comigo: </strong></h3>
