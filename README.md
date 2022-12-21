@@ -1,13 +1,20 @@
-### Olá, me chamo Jhoisnáyra Vitória!
+
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30px">&nbsp;***Olá, me chamo Jhoisnáyra Vitória!***
+<!-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=jhoisz.repoName)  -->
+[![GitHub followers](https://img.shields.io/github/followers/jhoisz.svg?style=social&label=Follow)](https://github.com/jhoisz?tab=followers)<br/>
+<!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
 
 
-Sou estudante de **Ciência da Computação** na Universidade Federal do Piauí (UFPI), pesquisadora na área de Redes de Computadores, com foco em IoT. Atualmente trabalho na **Alura**, como **Scuba do time de Mobile** e estou me especializando no framework **Flutter**.
+### Sobre mim
+<p>
+Sou estudante de <strong>Ciência da Computação</strong> na Universidade Federal do Piauí (UFPI), pesquisadora na área de Redes de Computadores, com foco em IoT. Atualmente trabalho na <strong>Alura</strong>, como <strong>Scuba do time de Mobile</strong> e estou me especializando no framework <strong>Flutter</strong>.
+</p>
 
 
 <div>
  <a href="https://github.com/jhoisz">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoisz&layout=compact&langs_count=7&theme=transparent"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jhoisz&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoisz&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jhoisz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
  
  <div>
