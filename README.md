@@ -5,15 +5,18 @@
 <!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
 
 
-### Sobre mim
-<p>
+### 🎐 Sobre mim
+
+
+  <img align="right" alt="" height="350" style="border-radius:50px;" src="https://media2.giphy.com/media/xd22iKsu0Wn0Q/giphy.gif?cid=ecf05e476eqzgki5awbbaeqssexr9zss3p3xauc58t13vwss&rid=giphy.gif&ct=s">
+
 Sou estudante de <strong>Ciência da Computação</strong> na Universidade Federal do Piauí (UFPI), pesquisadora na área de Redes de Computadores, com foco em IoT. Atualmente trabalho na <strong>Alura</strong>, como <strong>Scuba do time de Mobile</strong> e estou me especializando no framework <strong>Flutter</strong>.
-</p>
+
 
 
 <div>
  <a href="https://github.com/jhoisz">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoisz&layout=compact&langs_count=7&theme=tokyonight"/>
+<!-- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoisz&layout=compact&langs_count=7&theme=tokyonight"/> -->
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jhoisz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
  
@@ -29,9 +32,9 @@ Sou estudante de <strong>Ciência da Computação</strong> na Universidade Feder
 <div>
 
  
- <img align="right" alt="" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/962040838123319319/1050874733861810296/ezgif.com-gif-maker.gif">
+<!--  <img align="right" alt="" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/962040838123319319/1050874733861810296/ezgif.com-gif-maker.gif"> -->
  
- <p><strong>Entre em contato comigo:</strong></p>
+ <h3><strong> 🔗 Entre em contato comigo: </strong></h3>
   <a href= "https://www.linkedin.com/in/jhoisnayra-rodrigues/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a> 
