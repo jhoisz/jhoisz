@@ -1,5 +1,5 @@
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30px">&nbsp;***Olá, me chamo Jhoisnáyra Vitória!***
+## <img src="https://media4.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47qdswz1tf803p2926t4jq9husta1hzy8l44ohh93m&rid=giphy.gif&ct=s" width="30px">&nbsp;***Olá, me chamo Jhoisnáyra Vitória!***
 <!-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=jhoisz.repoName)  -->
 [![GitHub followers](https://img.shields.io/github/followers/jhoisz.svg?style=social&label=Follow)](https://github.com/jhoisz?tab=followers)<br/>
 <!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
