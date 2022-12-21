@@ -36,13 +36,22 @@ Sou estudante de <strong>Ciência da Computação</strong> na Universidade Feder
 
 <div>
   <p>
+    <a href="https://github.com/jhoisz/moviesapp">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhoisz&repo=moviesapp" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/jhoisz/organo">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhoisz&repo=organo" alt="GitHub Stats" />
+    </a>
+  </p>
+  
+<!--     <p>
     <a href="https://github.com/jhoisz/Bytebank_Provider">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhoisz&repo=Bytebank_Provider" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/jhoisz/dart_sintaxe_colecoes_e_dinamismo">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhoisz&repo=dart_sintaxe_colecoes_e_dinamismo" alt="GitHub Stats" />
     </a>
-  </p>
+  </p> -->
 </div>
   
   
