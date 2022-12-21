@@ -8,7 +8,7 @@
 ### 🎐 Sobre mim
 
 
-  <img align="right" alt="" height="350" style="border-radius:50px;" src="https://media2.giphy.com/media/xd22iKsu0Wn0Q/giphy.gif?cid=ecf05e476eqzgki5awbbaeqssexr9zss3p3xauc58t13vwss&rid=giphy.gif&ct=s">
+  <img align="right" alt="" height="300" style="border-radius:50px;" src="https://media2.giphy.com/media/xd22iKsu0Wn0Q/giphy.gif?cid=ecf05e476eqzgki5awbbaeqssexr9zss3p3xauc58t13vwss&rid=giphy.gif&ct=s">
 
 Sou estudante de <strong>Ciência da Computação</strong> na Universidade Federal do Piauí (UFPI), pesquisadora na área de Redes de Computadores, com foco em IoT. Atualmente trabalho na <strong>Alura</strong>, como <strong>Scuba do time de Mobile</strong> e estou me especializando no framework <strong>Flutter</strong>.
 
