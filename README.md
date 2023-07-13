@@ -12,7 +12,7 @@ And I'm a **flutter mobile developer**.
 ### Skills
 
 <code><img height="32" alt="flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"></code>
-<code><img height="32" alt="dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg"></code>
+<code><img height="32" alt="dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"></code>
 <code><img height="32" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
 <code><img height="32" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
 <code><img height="32" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
@@ -26,7 +26,7 @@ And I'm a **flutter mobile developer**.
 
 
 ### Github Stats
-|<a href="https://github.com/jhoisz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jhoisz&show_icons=true&bg_color=00000000&hide_border=true" /></a> | <a><img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_border=true" /></a>|
+|<a href="https://github.com/jhoisz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jhoisz&show_icons=true&bg_color=00000000&hide_border=true" /></a> | <a><img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=00000000&hide_border=true" /></a>|
 | ------------- | ------------- |
 
 
