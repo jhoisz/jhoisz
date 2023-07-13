@@ -1,78 +1,31 @@
+### Hi, I'm Jhoisnáyra Vitória
 
-## <img src="https://media4.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47qdswz1tf803p2926t4jq9husta1hzy8l44ohh93m&rid=giphy.gif&ct=s" width="30px">&nbsp;***Olá, me chamo Jhoisnáyra Vitória!***
-<!-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=jhoisz.repoName)  -->
-[![GitHub followers](https://img.shields.io/github/followers/jhoisz.svg?style=social&label=Follow)](https://github.com/jhoisz?tab=followers)<br/>
-<!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
+<img src="https://img.shields.io/static/v1?label=Overview&message=Jhoisnayra&color=D5E7F2&style=for-the-badge&logo=GitHub">
 
+I currently **work at [Alura](https://www.alura.com.br/)** as a Scuba in the Mobile team. 
 
-### 🎐 Sobre mim
+I'm a **computer science student** at the [Federal University of Piauí](https://ufpi.br/).
 
-
-  <img align="right" alt="" height="250" style="border-radius:50px;" src="https://media2.giphy.com/media/xd22iKsu0Wn0Q/giphy.gif?cid=ecf05e476eqzgki5awbbaeqssexr9zss3p3xauc58t13vwss&rid=giphy.gif&ct=s">
-
-Sou estudante de <strong>Ciência da Computação</strong> na Universidade Federal do Piauí (UFPI), pesquisadora na área de Redes de Computadores, com foco em IoT. Atualmente trabalho na <strong>Alura</strong>, como <strong>Scuba do time de Mobile</strong> e estou me especializando no framework <strong>Flutter</strong>.
+And I'm a **flutter mobile developer**.
 
 
+### Skills
 
-<div>
- <a href="https://github.com/jhoisz">
-<!-- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoisz&layout=compact&langs_count=7&theme=tokyonight"/> -->
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jhoisz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
- 
- <div>
- <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" target="_blank">
- <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"></img>
- <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></img>
- <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></img>
- <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></img>
- <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></img>
-</div>
+<code><img height="32" alt="flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"></code>
+<code><img height="32" alt="dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg"></code>
+<code><img height="32" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
+<code><img height="32" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img height="32" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+<code><img height="32" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
 
-<div>
+### Contact me
+
+<a href='https://www.linkedin.com/in/jhoisnayra-rodrigues'><code><img height="32" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></code><a>
+<a href='mailto:jhois.alu@gmail.com'><code><img height="32" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></code><a>
 
 
-### 📌 Veja alguns dos meus repositórios de estudos:
-
-<div>
-  <p>
-    <a href="https://github.com/jhoisz/moviesapp">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhoisz&repo=moviesapp" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/jhoisz/organo">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhoisz&repo=organo" alt="GitHub Stats" />
-    </a>
-  </p>
-  
-<!--     <p>
-    <a href="https://github.com/jhoisz/Bytebank_Provider">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhoisz&repo=Bytebank_Provider" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/jhoisz/dart_sintaxe_colecoes_e_dinamismo">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhoisz&repo=dart_sintaxe_colecoes_e_dinamismo" alt="GitHub Stats" />
-    </a>
-  </p> -->
-</div>
-  
-  
-<!--  <img align="right" alt="" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/962040838123319319/1050874733861810296/ezgif.com-gif-maker.gif"> -->
- 
- <h3><strong> 🔗 Entre em contato comigo: </strong></h3>
-  <a href= "https://www.linkedin.com/in/jhoisnayra-rodrigues/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
- </a> 
- <a href= "mailto:jhois.alu@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
- </a> 
-</div>
+### Github Stats
+|<a href="https://github.com/jhoisz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jhoisz&show_icons=true&bg_color=00000000&hide_border=true" /></a> | <a><img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_border=true" /></a>|
+| ------------- | ------------- |
 
 
-
-  
-  ##
-    
-<!--  <div> 
-  
-  ![Snake animation](https://github.com/jhoisz/jhoisz/blob/output/github-contribution-grid-snake.svg)
-</div>
- -->
