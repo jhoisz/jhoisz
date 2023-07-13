@@ -21,6 +21,7 @@ And I'm a **flutter mobile developer**.
 ### Contact me
 
 <a href='https://www.linkedin.com/in/jhoisnayra-rodrigues'><code><img height="32" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></code><a>
+<a href='https://discordapp.com/users/961637813353345034'><code><img height="32" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></code><a>
 <a href='mailto:jhois.alu@gmail.com'><code><img height="32" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></code><a>
 
 
