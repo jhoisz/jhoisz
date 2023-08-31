@@ -24,6 +24,10 @@ And I'm a **flutter mobile developer**.
 <a href='https://discordapp.com/users/961637813353345034'><code><img height="32" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></code><a>
 <a href='mailto:jhois.alu@gmail.com'><code><img height="32" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></code><a>
 
-
-
+### Github Stats
+<div align="center">
+  <a href="https://github.com/jhoisz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhoisz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoisz&layout=compact&langs_count=7&theme=github_dark&bg_color=00000000&hide_border=true"/>
+</div>
 
