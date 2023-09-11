@@ -6,7 +6,7 @@ I currently **work at [Alura](https://www.alura.com.br/)** as a Scuba in the Mob
 
 I'm a **computer science student** at the [Federal University of Piauí](https://ufpi.br/).
 
-And I'm a **flutter mobile developer**.
+And I'm a **mobile developer**.
 
 
 ### Skills
