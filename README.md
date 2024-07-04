@@ -16,6 +16,7 @@ I'm a **computer science student** at the [Federal University of Piauí](https:/
 <code><img height="32" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 <code><img height="32" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
 <code><img height="32" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"></code>
+<code><img height="32" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"></code>
                     
 
 ### Contact me
