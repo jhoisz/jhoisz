@@ -4,7 +4,7 @@
 
 I currently **work at Tocalivros as a Mobile developer**.
 
-**Computer scientist** at the [Federal University of Piauí](https://ufpi.br/).
+🎓 **Computer scientist** at the [Federal University of Piauí](https://ufpi.br/).
 
 ### Skills
 
