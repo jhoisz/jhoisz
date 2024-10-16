@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Jhoisnayra&color=D5E7F2&style=for-the-badge&logo=GitHub">
 
-I currently **work at Tocalivros as a Mobile developer**.
+I currently **work at Campsoft as a Mobile developer**.
 
 🎓 **Computer scientist** at the [Federal University of Piauí](https://ufpi.br/).
 
